@@ -15,7 +15,7 @@ I am a dedicated web developer with a strong focus on front-end and back-end tec
 
 
 ## 📫 How to reach me
-- LinkedIn: [MyLinkedIn Profile(https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Email: [education.riry@gmail.com](mailto:education.riry@gmail.com)
 
 ## 🌐 My Portfolio
